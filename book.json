@@ -1,7 +1,7 @@
 {
     "gitbook": ">=3.0.0-pre.11",
     "title": "WNISEF2",
-    "plugins": ["-search", "fontsettings", "-sharing", "addcssjs", "disqus", "quiz", "-mathjax"],
+    "plugins": ["-search", "-comment", "fontsettings", "-sharing", "addcssjs", "disqus", "quiz", "-mathjax"],
     "pluginsConfig": {
         "addcssjs": {
             "css": [

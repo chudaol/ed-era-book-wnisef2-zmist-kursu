@@ -6,7 +6,7 @@ $(document).ready(function () {
     "<p>Інтернаціоналізація бізнесу та вихід на ринки Європейського Союзу</p>" +
     "<p>Автор: </p>" +
     "<p>Олег Мирошніченко</p>" +
-    "<p><a href='mailto:oleh.myroshnichenko@gmail.com'>oleh.myroshnichenko@gmail.com</a></p>" +
+    "<p>oleh.myroshnichenko@gmail.com</p>" +
     "</div>";
 
   function init () {
