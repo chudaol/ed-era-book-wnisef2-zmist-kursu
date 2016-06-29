@@ -687,3 +687,11 @@ nobr > .math > span {
     height: 0;
     overflow: hidden;
 }
+
+.pre-summary {
+    padding: 10px 5px 2px 18px;
+}
+
+.pre-summary a {
+    color: #008cff;
+}
