@@ -7,7 +7,6 @@ $(document).ready(function () {
     "<p>Автор: </p>" +
     "<p>Олег Мирошніченко</p>" +
     "<p><a href='mailto:oleh.myroshnichenko@gmail.com'>oleh.myroshnichenko@gmail.com</a></p>" +
-    "<hr/>" +
     "</div>";
 
   function init () {
