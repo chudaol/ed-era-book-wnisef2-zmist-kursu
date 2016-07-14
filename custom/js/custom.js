@@ -2,8 +2,8 @@ $(document).ready(function () {
   var template;
 
   template = "<div class='pre-summary'>" +
-    "<p>Книга:</p>" +
-    "<p>Інтернаціоналізація бізнесу та вихід на ринки Європейського Союзу</p>" +
+    "<p>Програма онлайн-курсу:</p>" +
+    "<p>Експорт, інтернаціоналізація бізнесу та єдиний ринок ЄС</p>" +
     "<p>Автор: </p>" +
     "<p>Олег Мирошніченко</p>" +
     "<p>oleh.myroshnichenko@gmail.com</p>" +
@@ -22,7 +22,7 @@ $(document).ready(function () {
     //add info
     $(".book-summary").children().first().prepend($(template));
   }
-
+  
 
   init();
 

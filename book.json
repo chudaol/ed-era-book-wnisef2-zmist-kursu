@@ -1,7 +1,7 @@
 {
     "gitbook": ">=3.0.0-pre.11",
-    "title": "WNISEF2",
-    "plugins": ["-search", "-comment", "fontsettings", "-sharing", "addcssjs", "disqus", "quiz", "-mathjax"],
+    "title": "Інтернаціоналізація бізнесу та вихід на ринки Європейського Союзу",
+    "plugins": ["-search", "fontsettings", "-sharing", "-comment", "addcssjs", "disqus", "quiz", "-mathjax"],
     "pluginsConfig": {
         "addcssjs": {
             "css": [
@@ -29,7 +29,7 @@
         }
     },
     "variables": {
-        "basePath": "http://readmon24.ed-era.com/"
+      "basePath": "http://readmon24.ed-era.com/"
     },
     "links": {
         "gitbook": false
