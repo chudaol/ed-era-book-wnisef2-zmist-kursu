@@ -8,7 +8,7 @@
 <div class="eoz-wrap">
 <span class="eoz">Корисні посилання</span>
 <div class="eoz-text">
-За можливості, варто ознайомитися з ґрунтовним посібником Асоціації німецьких торгових виставок стосовно участі у виставках <a href="https://bit.ly/Success_trade_fairs">bit.ly/Success_trade_fairs</a>
+За можливості, варто ознайомитися з ґрунтовним посібником Асоціації німецьких торгових виставок стосовно участі у виставках <a href="http://bit.ly/Success_trade_fairs">bit.ly/Success_trade_fairs</a>
 </div>
 </div>
 </div>

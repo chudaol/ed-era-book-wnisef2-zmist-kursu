@@ -14,7 +14,7 @@
 <div class="eoz-wrap">
 <span class="eoz">Корисні посилання</span>
 <div class="eoz-text">
-Інформацію про тенденції та преференції у здійсненні електронних платежів можна отримати, наприклад, від компанії <a href="https://www.ystats.com">www.ystats.com</a>, а також з публікації "Ваш глобальний гід з альтернативних платежів" (<i>Your global guide to Alternative Payments</i>) <a href="https://bit.ly/Alternative_payments">bit.ly/Alternative_payments</a>. 
+Інформацію про тенденції та преференції у здійсненні електронних платежів можна отримати, наприклад, від компанії <a href="http://www.ystats.com">www.ystats.com</a>, а також з публікації "Ваш глобальний гід з альтернативних платежів" (<i>Your global guide to Alternative Payments</i>) <a href="http://bit.ly/Alternative_payments">bit.ly/Alternative_payments</a>. 
 </div>
 </div>
 </div>

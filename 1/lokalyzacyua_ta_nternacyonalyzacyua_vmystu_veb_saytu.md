@@ -8,7 +8,7 @@
 <div class="eoz-wrap">
 <span class="eoz">Сайт компанії <i>Nivea</i></span>
 <div class="eoz-text">
-Головна міжнародна сторінка <a href="https://www.nivea.com">www.nivea.com</a> містить розбивку країн присутності за континентами – звідти можна обрати необхідну національну версію. У свою чергу, локальні сайти таких країн, як Болгарія, Греція та Франція містять відмінні структури розділів. Відмінними є і присутність/відсутність у соціальних мережах та наявність або відсутність підписки на електронний бюлетень для кожної країни. Подібним чином на самих сторінках відрізняються рекламні картинки.<sup><a href="#fn_13" id="reffn_13">13</a></sup>
+Головна міжнародна сторінка <a href="http://www.nivea.com">www.nivea.com</a> містить розбивку країн присутності за континентами – звідти можна обрати необхідну національну версію. У свою чергу, локальні сайти таких країн, як Болгарія, Греція та Франція містять відмінні структури розділів. Відмінними є і присутність/відсутність у соціальних мережах та наявність або відсутність підписки на електронний бюлетень для кожної країни. Подібним чином на самих сторінках відрізняються рекламні картинки.<sup><a href="#fn_13" id="reffn_13">13</a></sup>
 </div>
 </div>
 </div>
@@ -50,12 +50,12 @@
 
 У ході розробки сайту необхідно ухвалити принципове рішення про його архітектуру, про те, які домени будуть використовуватися для кожної цільової країни, наприклад:<sup><a href="#fn_15" id="reffn_15">15</a></sup>
 <ul type="disc">
-<li>контент іншою мовою викладається у відмінний субдомен. Наприклад, <a href="https://en.example.com">en.example.com</a> – для англійської мови, <a href="https://de.example.com">de.example.com</a> – для німецької та <a href="https://es.example.com">es.example.com</a> – для іспанської</li>
-<li>контент іншою мовою викладається у відмінну субдиректорію. Це легше робити під час оновлення та обслуговування вашого сайту. Наприклад, <a href="https://example.com/en/">example.com/en/</a> - для англійської, <a href="https://example.com/de/">example.com/de/</a> - для німецької і <a href="https://example.com/es/">example.com/es/</a> - для іспанської</li>
+<li>контент іншою мовою викладається у відмінний субдомен. Наприклад, <a href="http://en.example.com">en.example.com</a> – для англійської мови, <a href="http://de.example.com">de.example.com</a> – для німецької та <a href="http://es.example.com">es.example.com</a> – для іспанської</li>
+<li>контент іншою мовою викладається у відмінну субдиректорію. Це легше робити під час оновлення та обслуговування вашого сайту. Наприклад, <a href="http://example.com/en/">example.com/en/</a> - для англійської, <a href="http://example.com/de/">example.com/de/</a> - для німецької і <a href="http://example.com/es/">example.com/es/</a> - для іспанської</li>
 <ul type="circle">
 <li>цей підхід варто використовувати в разі популярності назви компанії (сайту) на цільових ринках.</li>
 </ul>
-<li>контент іншою мовою викладається до домену верхнього рівня. Наприклад, <a href="https://example.en">example.en</a> – для англійської, <a href="https://example.de">example.de</a> – для німецької, <a href="https://example.es">example.es</a> – для іспанської.</li>
+<li>контент іншою мовою викладається до домену верхнього рівня. Наприклад, <a href="http://example.en">example.en</a> – для англійської, <a href="http://example.de">example.de</a> – для німецької, <a href="http://example.es">example.es</a> – для іспанської.</li>
 </ul>
 
 Окрім того, можна розглянути "упереджувальну купівлю" сайтів у національних сегментах з метою ускладнити пізнішу реєстрацію сайтів, що будуть містити в собі назви вашої компанії/продукту конкурентами.
@@ -65,11 +65,11 @@
 Після закладання основ необхідно визначитися з тим, як аналізуватиметься результативність функціонування сайту включно з відвідуваністю тощо.
 
 <blockquote id="fn_13">
-<sup>13</sup>. Фотофрагменти корпоративних сайтів Nivea для Болгарії (<a href="https://www.nivea.bg">www.nivea.bg</a>), Греції (<a href="https://www.nivea.gr">www.nivea.gr</a>) та Франції (<a href="https://www.nivea.fr">www.nivea.fr</a>) на 17 травня 2015 року. <a href="#reffn_13" title="Jump back to footnote [13] in the text."> ↩</a>
+<sup>13</sup>. Фотофрагменти корпоративних сайтів Nivea для Болгарії (<a href="http://www.nivea.bg">www.nivea.bg</a>), Греції (<a href="http://www.nivea.gr">www.nivea.gr</a>) та Франції (<a href="http://www.nivea.fr">www.nivea.fr</a>) на 17 травня 2015 року. <a href="#reffn_13" title="Jump back to footnote [13] in the text."> ↩</a>
 </blockquote>
 <blockquote id="fn_14">
-<sup>14</sup>. Текст на основі <i>10 Top Languages for your Business.</i> (2015, April 19). збережено 17 травня, 2015 р., за посиланням <a href="https://bit.ly/Top_business_languages">bit.ly/Top_business_languages</a> <a href="#reffn_14" title="Jump back to footnote [14] in the text."> ↩</a>
+<sup>14</sup>. Текст на основі <i>10 Top Languages for your Business.</i> (2015, April 19). збережено 17 травня, 2015 р., за посиланням <a href="http://bit.ly/Top_business_languages">bit.ly/Top_business_languages</a> <a href="#reffn_14" title="Jump back to footnote [14] in the text."> ↩</a>
 </blockquote>
 <blockquote id="fn_15">
-<sup>15</sup>. Джерело: <i>How to Start a Multilingual Site</i>, Google Webmaster Central Blog, остання модифікація 7 серпня, 2008 р., <a href="https://bit.ly/Start_multilingual_site">bit.ly/Start_multilingual_site</a> <a href="#reffn_15" title="Jump back to footnote [15] in the text."> ↩</a>
+<sup>15</sup>. Джерело: <i>How to Start a Multilingual Site</i>, Google Webmaster Central Blog, остання модифікація 7 серпня, 2008 р., <a href="http://bit.ly/Start_multilingual_site">bit.ly/Start_multilingual_site</a> <a href="#reffn_15" title="Jump back to footnote [15] in the text."> ↩</a>
 </blockquote>

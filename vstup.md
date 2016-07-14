@@ -47,5 +47,5 @@
 Посібник також може бути цікавим для студентів за спеціальностями, пов'язаними з міжнародною економікою та бізнесом; для державних службовців, що займаються розробкою системи підтримки малого та середнього бізнесу в Україні, зокрема, для його просування на міжнародні ринки. 
 
 <blockquote id="fn_1">
-<sup>1</sup>. “A Basic Guide to Exporting. Contents.” Export.gov. 19 серпня 2014 року. <a href="https://www.export.gov/basicguide/eg_main_017244.asp">www.export.gov/basicguide/eg_main_017244.asp</a> <a href="#reffn_1" title="Jump back to footnote [1] in the text."> ↩</a>
+<sup>1</sup>. “A Basic Guide to Exporting. Contents.” Export.gov. 19 серпня 2014 року. <a href="http://www.export.gov/basicguide/eg_main_017244.asp">www.export.gov/basicguide/eg_main_017244.asp</a> <a href="#reffn_1" title="Jump back to footnote [1] in the text."> ↩</a>
 </blockquote>

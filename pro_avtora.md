@@ -26,8 +26,8 @@
 У грудні 2014 року за підтримки Міжнародного фонду «Відродження» і за авторства Олега Мирошніченка вийшла книга «Базовий посібник з інтернаціоналізації бізнесу та виходу на ринки Європейського Союзу».
 
 Більш докладна інформація про автора в мережі *LinkedIn* <br>
-<a href="https://ua.linkedin.com/in/olehmyr">ua.linkedin.com/in/olehmyr</a>
+<a href="http://ua.linkedin.com/in/olehmyr">ua.linkedin.com/in/olehmyr</a>
 
 Електронна адреса: oleh.myroshnichenko@gmail.com
 
-Блог: <a href="https://export-ua.blogspot.com">export-ua.blogspot.com</a>
+Блог: <a href="http://export-ua.blogspot.com">export-ua.blogspot.com</a>

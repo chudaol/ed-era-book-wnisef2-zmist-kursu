@@ -2,7 +2,7 @@
 
 <p align="center"> <img class="image" src="0.png"/></p>
 
-<p align="right">Дозвіл на використання діаграми люб'язно надано компанією One Marketing Ltd. <br><a href="https://www.one-marketing.eu/">www.one-marketing.eu/</a></p>
+<p align="right">Дозвіл на використання діаграми люб'язно надано компанією One Marketing Ltd. <br><a href="http://www.one-marketing.eu/">www.one-marketing.eu/</a></p>
 
 Примітки:<br>
 [1] англ. "Summit sell" - прямий продаж із країни походження від керівника підприємства через керівника підприємства організації-покупця<br>

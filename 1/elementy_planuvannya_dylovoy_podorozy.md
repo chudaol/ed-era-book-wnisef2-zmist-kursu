@@ -21,7 +21,7 @@
 <div class="eoz-wrap">
 <span class="eoz">Корисні посилання</span>
 <div class="eoz-text">
-З метою зниження ризиків під час подорожі можна ознайомитися з публікаціями міжнародної страхової групи Ackerman щодо зниження ризиків для подорожуючих <a href="https://bit.ly/BTrip_risk">bit.ly/BTrip_risks</a> та терористичних ризиків <a href="https://bit.ly/Manage_terrorist_risks">bit.ly/Manage_terrorist_risks</a>.</sup>
+З метою зниження ризиків під час подорожі можна ознайомитися з публікаціями міжнародної страхової групи Ackerman щодо зниження ризиків для подорожуючих <a href="http://bit.ly/BTrip_risk">bit.ly/BTrip_risks</a> та терористичних ризиків <a href="http://bit.ly/Manage_terrorist_risks">bit.ly/Manage_terrorist_risks</a>.</sup>
 </div>
 </div>
 </div>

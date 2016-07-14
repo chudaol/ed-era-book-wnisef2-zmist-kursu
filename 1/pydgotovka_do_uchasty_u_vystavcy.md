@@ -26,8 +26,8 @@
 <div class="eoz-wrap">
 <span class="eoz">Корисні посилання</span>
 <div class="eoz-text">
-Надихаючі дизайни виставкових місць можна переглянути в підбірці на <i>Pinterest</i>  <a href="https://bit.ly/Inspiring_trade_show_booths">bit.ly/Inspiring_trade_show_booths</a> <br>
-Додаткові поради стосовно оформлення виставкового стенду знаходяться за посиланням <a href="https://bit.ly/Booth_design">bit.ly/Booth_design</a>
+Надихаючі дизайни виставкових місць можна переглянути в підбірці на <i>Pinterest</i>  <a href="http://bit.ly/Inspiring_trade_show_booths">bit.ly/Inspiring_trade_show_booths</a> <br>
+Додаткові поради стосовно оформлення виставкового стенду знаходяться за посиланням <a href="http://bit.ly/Booth_design">bit.ly/Booth_design</a>
 </div>
 </div>
 </div>

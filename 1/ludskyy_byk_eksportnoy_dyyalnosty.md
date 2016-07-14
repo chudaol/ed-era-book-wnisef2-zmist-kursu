@@ -23,5 +23,5 @@
 </div>
 
 <blockquote id="fn_38">
-<sup>38</sup>. "Не лише ціною: український експорт освоює преміум-сегмент." Європейська правда. Web. 27 Feb. 2015. (<a href="https://www.eurointegration.com.ua/articles/2015/02/26/7031280/">www.eurointegration.com.ua/articles/2015/02/26/7031280/</a>). <a href="#reffn_38" title="Jump back to footnote [38] in the text."> ↩</a>
+<sup>38</sup>. "Не лише ціною: український експорт освоює преміум-сегмент." Європейська правда. Web. 27 Feb. 2015. (<a href="http://www.eurointegration.com.ua/articles/2015/02/26/7031280/">www.eurointegration.com.ua/articles/2015/02/26/7031280/</a>). <a href="#reffn_38" title="Jump back to footnote [38] in the text."> ↩</a>
 </blockquote>
