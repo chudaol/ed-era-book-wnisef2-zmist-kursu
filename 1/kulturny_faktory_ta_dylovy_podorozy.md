@@ -53,7 +53,7 @@
 <div class="eoz-wrap">
 <span class="eoz">Корисні посилання:</span>
 <div class="eoz-text">
-Британська компанія <i>Kwintessential</i> пропонує на своєму сайті посібник "Культурна обізнаність" <a href="bit.ly/Cultural_awareness">bit.ly/Cultural_awareness</a>. Публікація призначена для бізнесу, що прагне до роботи на глобальних ринках. Окрім того, на сторінці "Культурні профілі - глобальний гід із культури, звичаїв та етикету" <a href="bit.ly/Cultural_guides">bit.ly/Cultural_guides</a> можна знайти відповідні гіди з великої кількості країн.
+Британська компанія <i>Kwintessential</i> пропонує на своєму сайті посібник "Культурна обізнаність" <a href="https://bit.ly/Cultural_awareness">bit.ly/Cultural_awareness</a>. Публікація призначена для бізнесу, що прагне до роботи на глобальних ринках. Окрім того, на сторінці "Культурні профілі - глобальний гід із культури, звичаїв та етикету" <a href="https://bit.ly/Cultural_guides">bit.ly/Cultural_guides</a> можна знайти відповідні гіди з великої кількості країн.
 </div>
 </div>
 </div>
@@ -74,5 +74,5 @@
 </div>
 
 <blockquote id="fn_24">
-<sup>24</sup>. Джерело за посиланням  <a href="bit.ly/business_culture">bit.ly/business_culture</a> <a href="#reffn_24" title="Jump back to footnote [24] in the text."> ↩</a>
+<sup>24</sup>. Джерело за посиланням  <a href="https://bit.ly/business_culture">bit.ly/business_culture</a> <a href="#reffn_24" title="Jump back to footnote [24] in the text."> ↩</a>
 </blockquote>

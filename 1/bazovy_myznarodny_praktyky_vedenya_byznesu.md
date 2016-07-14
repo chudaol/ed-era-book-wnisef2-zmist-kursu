@@ -10,5 +10,5 @@
 Зрештою фактор комфорту у спілкуванні з вами та відчуття довіри і симпатії є надзвичайно важливим для встановлення здорового та тривалого ділового зв'язку. 
 
 <blockquote id="fn_31">
-<sup>31</sup>. Джерело за посиланням <a href="bit.ly/LainoPhoto">bit.ly/LainoPhoto</a> <a href="#reffn_31" title="Jump back to footnote [31] in the text."> ↩</a>
+<sup>31</sup>. Джерело за посиланням <a href="https://bit.ly/LainoPhoto">bit.ly/LainoPhoto</a> <a href="#reffn_31" title="Jump back to footnote [31] in the text."> ↩</a>
 </blockquote>

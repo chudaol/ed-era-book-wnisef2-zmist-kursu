@@ -10,12 +10,12 @@
 <div class="eoz-wrap">
 <span class="eoz">Корисні посилання</span>
 <div class="eoz-text">
-Для подальшого заглиблення в тему бізнес-етики можна ознайомитися з публікаціями <i>International Business Ethics Institute (Міжнародного інституту бізнес-етики)</i> <a href="bit.ly/IBE_publications">bit.ly/IBE_publications</a> <br>
-Ознайомитися з варіантом структури та змісту корпоративного етичного кодексу можна тут <a href="bit.ly/Corporate_Ethics_Code_structure">bit.ly/Corporate_Ethics_Code_structure</a> <br>
-Гід зі створення корпоративного етичного кодексу <a href="bit.ly/Create_ethics_code">bit.ly/Create_ethics_code</a> <br>
-Шаблон корпоративного етичного кодексу <a href="bit.ly/Ethics_code_template">bit.ly/Ethics_code_template</a> <br>
-Шаблон кодексу етики та ділової поведінки <a href="bit.ly/Ethics_code_template_2">bit.ly/Ethics_code_template_2</a> <br>
-Зразок Кодексу корпоративної етики (Citibank Україна) <a href="bit.ly/Citi_Ukraine_code">bit.ly/Citi_Ukraine_code</a>
+Для подальшого заглиблення в тему бізнес-етики можна ознайомитися з публікаціями <i>International Business Ethics Institute (Міжнародного інституту бізнес-етики)</i> <a href="https://bit.ly/IBE_publications">bit.ly/IBE_publications</a> <br>
+Ознайомитися з варіантом структури та змісту корпоративного етичного кодексу можна тут <a href="https://bit.ly/Corporate_Ethics_Code_structure">bit.ly/Corporate_Ethics_Code_structure</a> <br>
+Гід зі створення корпоративного етичного кодексу <a href="https://bit.ly/Create_ethics_code">bit.ly/Create_ethics_code</a> <br>
+Шаблон корпоративного етичного кодексу <a href="https://bit.ly/Ethics_code_template">bit.ly/Ethics_code_template</a> <br>
+Шаблон кодексу етики та ділової поведінки <a href="https://bit.ly/Ethics_code_template_2">bit.ly/Ethics_code_template_2</a> <br>
+Зразок Кодексу корпоративної етики (Citibank Україна) <a href="https://bit.ly/Citi_Ukraine_code">bit.ly/Citi_Ukraine_code</a>
 </div>
 </div>
 </div>
@@ -27,7 +27,7 @@
 <div class="space">
 <div class="eoz-wrap">
 <div class="eoz-text">
-Стаття 62 Закону України "Про запобігання корупції" <a href="bit.ly/Corruption_prevention_law">bit.ly/Corruption_prevention_law</a> встановлює вимоги до антикорупційної програми юридичної особи і визначає таку програму, як "комплекс правил, стандартів і процедур із виявлення, протидії та запобігання корупції в діяльності юридичної особи". Орієнтовний зміст антикорупційної програми зазначено в Статті 63. Закон визначає коло підприємств, що повинні мати таку програму в обов'язковому порядку – головно державні підприємства й учасники тендерів державних закупівель. <br>
+Стаття 62 Закону України "Про запобігання корупції" <a href="https://bit.ly/Corruption_prevention_law">bit.ly/Corruption_prevention_law</a> встановлює вимоги до антикорупційної програми юридичної особи і визначає таку програму, як "комплекс правил, стандартів і процедур із виявлення, протидії та запобігання корупції в діяльності юридичної особи". Орієнтовний зміст антикорупційної програми зазначено в Статті 63. Закон визначає коло підприємств, що повинні мати таку програму в обов'язковому порядку – головно державні підприємства й учасники тендерів державних закупівель. <br>
 Однак навіть якщо ви не потрапляєте до цього кола, на певній стадії розвитку вашого бізнесу варто подумати про запровадження такого документа, оскільки інформація про наявність антикорупційної програми може слугувати додатковим сигналом для західного партнера про те, що з вами варто мати справу. <br>
 Ви можете задекларувати (в т.ч., на вашому сайті), що визначені положення вашої антикорупційної програми в обов'язковому порядку включаються до договорів, які ви укладаєте з іншими юридичними особами. Наприклад, така інформація може міститися в окремому розділі сайту під назвою "Запобігання корупції". У цьому розділі можна зазначити: "На виконання Закону України 'Про запобігання корупції' в нашій компанії запроваджено антикорупційну програму. З текстом Програми можна ознайомитися нижче...". <br>
 Враховуючи поширене сприйняття України за кордоном як висококорупційного середовища, подібний крок може вигідно виділити вас.
@@ -39,11 +39,11 @@
 <div class="eoz-wrap">
 <span class="eoz">Корисне посилання</span>
 <div class="eoz-text">
-Документ "CMS Guide to Anti-Bribery and Corruption Laws" <a href="bit.ly/Guide_Anti_Corruption">bit.ly/Guide_Anti_Corruption</a> містить огляд антикорупційного законодавства у 26 країнах включно з Україною та іншими європейськими країнами.
+Документ "CMS Guide to Anti-Bribery and Corruption Laws" <a href="https://bit.ly/Guide_Anti_Corruption">bit.ly/Guide_Anti_Corruption</a> містить огляд антикорупційного законодавства у 26 країнах включно з Україною та іншими європейськими країнами.
 </div>
 </div>
 </div>
 
 <blockquote id="fn_25">
-<sup>25</sup>. Цитата, джерело: <i>Export Marketing Planner: A MANUAL ON HOW TO ENTER EUROPEAN MARKETS</i> <a href="bit.ly/ExpMarkPlan">bit.ly/ExpMarkPlan</a> <a href="#reffn_25" title="Jump back to footnote [25] in the text."> ↩</a>
+<sup>25</sup>. Цитата, джерело: <i>Export Marketing Planner: A MANUAL ON HOW TO ENTER EUROPEAN MARKETS</i> <a href="https://bit.ly/ExpMarkPlan">bit.ly/ExpMarkPlan</a> <a href="#reffn_25" title="Jump back to footnote [25] in the text."> ↩</a>
 </blockquote>

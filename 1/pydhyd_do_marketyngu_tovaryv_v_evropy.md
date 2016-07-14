@@ -21,10 +21,10 @@
 Якість - це те, що клієнт сприймає як якість. Для окремих груп клієнтів те, що є якістю для інших, не буде якістю для них. І тому емпатія є двічі важливою! Наприклад, німецькомовні споживачі погано сприймають органічні продукти, які негарно (природно) виглядають. Разом із тим, в інших країнах крива морква або яблука зі щербинками в категорії органічної продукції можуть сприйматися цілком нормально.
 
 <blockquote id="fn_27">
-<sup>27</sup>. Адаптований текст на базі <a href="bit.ly/business_culture">bit.ly/business_culture</a> <a href="#reffn_27" title="Jump back to footnote [27] in the text."> ↩</a>
+<sup>27</sup>. Адаптований текст на базі <a href="https://bit.ly/business_culture">bit.ly/business_culture</a> <a href="#reffn_27" title="Jump back to footnote [27] in the text."> ↩</a>
 </blockquote>
 <blockquote id="fn_28">
-<sup>28</sup>. Джерело за посиланням <a href="bit.ly/LainoPhoto">bit.ly/LainoPhoto</a> <a href="#reffn_28" title="Jump back to footnote [28] in the text."> ↩</a>
+<sup>28</sup>. Джерело за посиланням <a href="https://bit.ly/LainoPhoto">bit.ly/LainoPhoto</a> <a href="#reffn_28" title="Jump back to footnote [28] in the text."> ↩</a>
 </blockquote>
 <blockquote id="fn_29">
 <sup>29</sup>. Там само. <a href="#reffn_29" title="Jump back to footnote [29] in the text."> ↩</a>

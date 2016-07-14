@@ -16,9 +16,9 @@
 <div class="eoz-wrap">
 <span class="eoz">Корисні посилання</span>
 <div class="eoz-text">
-Успішний запуск веб-сайту потребує також його оптимізації для пошукових систем у цільовій країні. Для прикладу дивіться поради з оптимізації корпоративного сайту для німецього ринку за посиланням <a href="bit.ly/SEO_German_market">bit.ly/SEO_German_market</a> <br>
-Британська компанія Kwintessential пропонує на своєму сайті посібник "Гід початківця по глобальній оптимізації до пошукової системи: використання SEO для міжнародного маркетингу веб-сайту" <a href="bit.ly/Global_SEO_optimisation">bit.ly/Global_SEO_optimisation</a> <br>
-Для кращого розуміння того, що представляє собою побудова глобального сайту, ознайомтеся з інтерв'ю з головою компанії <i>Eriksen Translations</i> <a href="bit.ly/Web_Global_interview">bit.ly/Web_Global_interview</a>
+Успішний запуск веб-сайту потребує також його оптимізації для пошукових систем у цільовій країні. Для прикладу дивіться поради з оптимізації корпоративного сайту для німецього ринку за посиланням <a href="https://bit.ly/SEO_German_market">bit.ly/SEO_German_market</a> <br>
+Британська компанія Kwintessential пропонує на своєму сайті посібник "Гід початківця по глобальній оптимізації до пошукової системи: використання SEO для міжнародного маркетингу веб-сайту" <a href="https://bit.ly/Global_SEO_optimisation">bit.ly/Global_SEO_optimisation</a> <br>
+Для кращого розуміння того, що представляє собою побудова глобального сайту, ознайомтеся з інтерв'ю з головою компанії <i>Eriksen Translations</i> <a href="https://bit.ly/Web_Global_interview">bit.ly/Web_Global_interview</a>
 </div>
 </div>
 </div>

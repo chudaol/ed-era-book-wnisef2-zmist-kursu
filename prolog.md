@@ -57,7 +57,7 @@
 <sup>5</sup>. Джерело: "Setting up an Export Marketing Strategy", online course, International Trade Centre, May 2016<a href="#reffn_5" title="Jump back to footnote [5] in the text."> ↩</a>
 </blockquote>
 <blockquote id="fn_6">
-<sup>6</sup>. "SME's Export Strategy - "Whether to Export or Not" <i>Small Businesses India, Business Advice,</i> збережено 8 чернвя 2014  р. <a href="bit.ly/SME_export_strategy">bit.ly/SME_export_strategy</a><a href="#reffn_6" title="Jump back to footnote [6] in the text."> ↩</a>
+<sup>6</sup>. "SME's Export Strategy - "Whether to Export or Not" <i>Small Businesses India, Business Advice,</i> збережено 8 чернвя 2014  р. <a href="https://bit.ly/SME_export_strategy">bit.ly/SME_export_strategy</a><a href="#reffn_6" title="Jump back to footnote [6] in the text."> ↩</a>
 </blockquote>
 <blockquote id="fn_7">
 <sup>7</sup>. Там само.<a href="#reffn_7" title="Jump back to footnote [7] in the text."> ↩</a>

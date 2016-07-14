@@ -35,8 +35,8 @@
 Отже, підготовка до участі у виставці має починатись за кілька місяців до її початку. Компанії необхідно мати чітке бачення свого позиціонування і своєї стратегії участі в ній. Необхідно чітко визначити свою мету на виставці і відповідно готуватися до досягнення поставлених цілей. В іншому випадку це буде лише марнуванням ваших грошей і часу. 
 
 <blockquote id="fn_34">
-<sup>34</sup>. Складено за матеріалами <i>How to sell at international trade shows</i> <a href="bit.ly/How_sell_at_trade_shows">bit.ly/How_sell_at_trade_shows</a> Комерційної служби США <a href="#reffn_34" title="Jump back to footnote [34] in the text."> ↩</a>
+<sup>34</sup>. Складено за матеріалами <i>How to sell at international trade shows</i> <a href="https://bit.ly/How_sell_at_trade_shows">bit.ly/How_sell_at_trade_shows</a> Комерційної служби США <a href="#reffn_34" title="Jump back to footnote [34] in the text."> ↩</a>
 </blockquote>
 <blockquote id="fn_35">
-<sup>35</sup>. "Друк в Європу: паперовий підхід до українського експорту." Європейська правда. 6 лютого 2015 р. <a href="bit.ly/Paper_export">bit.ly/Paper_export</a> <a href="#reffn_35" title="Jump back to footnote [35] in the text."> ↩</a>
+<sup>35</sup>. "Друк в Європу: паперовий підхід до українського експорту." Європейська правда. 6 лютого 2015 р. <a href="https://bit.ly/Paper_export">bit.ly/Paper_export</a> <a href="#reffn_35" title="Jump back to footnote [35] in the text."> ↩</a>
 </blockquote>

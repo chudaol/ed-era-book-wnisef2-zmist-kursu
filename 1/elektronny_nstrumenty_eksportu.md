@@ -56,7 +56,7 @@
 <div class="eoz-wrap">
 <span class="eoz">Корисні посилання</span>
 <div class="eoz-text">
-Агенція розвитку бізнесу Канади пропонує безкоштовний сервіс оцінки вебсайтів. Сервіс дозволяє оцінити корпоративний сайт за великою кількістю критеріїв: доступність, узгодженість та якість посилань, поведінка сервера, ступінь соціального інтересу до сайту, помилки в коді сторінок та багато іншого). Щоб скористатися сервісом, необхідно вставити у відображене на сторінці поле адресу свого веб-сайту. Після цього сервіс проведе діагностику вашого сайту і видасть результати оцінки разом із рекомендаціями щодо вдосконалення сайту. Для використання інструменту оцінки веб-сайтів перейдіть за посиланням <a href="www.BDC.ca/testyourwebsite">www.BDC.ca/testyourwebsite</a> і натисність кнопку "Begin your free website assessment!" (почніть свою безкоштовну перевірку веб-сайту).<br>
+Агенція розвитку бізнесу Канади пропонує безкоштовний сервіс оцінки вебсайтів. Сервіс дозволяє оцінити корпоративний сайт за великою кількістю критеріїв: доступність, узгодженість та якість посилань, поведінка сервера, ступінь соціального інтересу до сайту, помилки в коді сторінок та багато іншого). Щоб скористатися сервісом, необхідно вставити у відображене на сторінці поле адресу свого веб-сайту. Після цього сервіс проведе діагностику вашого сайту і видасть результати оцінки разом із рекомендаціями щодо вдосконалення сайту. Для використання інструменту оцінки веб-сайтів перейдіть за посиланням <a href="https://www.BDC.ca/testyourwebsite">www.BDC.ca/testyourwebsite</a> і натисність кнопку "Begin your free website assessment!" (почніть свою безкоштовну перевірку веб-сайту).<br>
 <p align="center"><img class="image" src="2.png"/></p>
 У віконце, яке з'явиться, необхідно ввести веб-адресу сайту, що буде оцінюватися.<br>
 <p align="center"><img class="image" src="3.png"/></p>
@@ -70,10 +70,10 @@
 </div>
 
 <blockquote id="fn_9">
-<sup>9</sup>. Текст на основі <a href="bit.ly/Web_site_rules">bit.ly/Web_site_rules</a> <a href="#reffn_9" title="Jump back to footnote [9] in the text."> ↩</a>
+<sup>9</sup>. Текст на основі <a href="https://bit.ly/Web_site_rules">bit.ly/Web_site_rules</a> <a href="#reffn_9" title="Jump back to footnote [9] in the text."> ↩</a>
 </blockquote>
 <blockquote id="fn_10">
-<sup>10</sup>. Джерело за посиланням <a href="bit.ly/Amazon_principles">bit.ly/Amazon_principles</a> <a href="#reffn_10" title="Jump back to footnote [10] in the text."> ↩</a>
+<sup>10</sup>. Джерело за посиланням <a href="https://bit.ly/Amazon_principles">bit.ly/Amazon_principles</a> <a href="#reffn_10" title="Jump back to footnote [10] in the text."> ↩</a>
 </blockquote>
 <blockquote id="fn_11">
 <sup>11</sup>. Для більш глибокого ознайомлення з культурними нюансами сайтів варто ознайомитися з книгою <i>Nitish Singh and Arun Pereira, The Cultrurally Customised Web Site: Customizing Web Sites for the Global Marketplace (Oxford, UK: Elsevier 2011)</i> <a href="#reffn_11" title="Jump back to footnote [11] in the text."> ↩</a>

@@ -29,7 +29,7 @@
 </div>
 
 <p align="center"><img class="image" src="10.png"/></p>
-<p align="center">Джерело за посиланням  <a href="bit.ly/Business_card_design">bit.ly/Business_card_design</a> </p>
+<p align="center">Джерело за посиланням  <a href="https://bit.ly/Business_card_design">bit.ly/Business_card_design</a> </p>
 <div class="space">
 <div class="eoz-wrap">
 <div class="eoz-text">
@@ -39,7 +39,7 @@
 </div>
 
 <p align="center"><img class="image" src="11.png"/></p>
-<p align="center">Джерело слайду: рекламні матеріали компанії Kwinswig <a href="kwinswig.com.ua">kwinswig.com.ua</a> </p>
+<p align="center">Джерело слайду: рекламні матеріали компанії Kwinswig <a href="https://kwinswig.com.ua">kwinswig.com.ua</a> </p>
 
 Символізм може вкладатися в будь які елементи та інформаційні матеріали. Наприклад, цікавим є вітальне повідомлення на сайті харківської компанії BORIKA<sup><a href="#fn_23" id="reffn_23">23</a></sup>
 
@@ -62,11 +62,11 @@ We are proud to offer products of Ukrainian origin to foreign partners, thereby 
 </table>
 
 <blockquote id="fn_21">
-<sup>21</sup>. Джерело за посиланням <a href="bit.ly/Purcari_Freedom_Blend">bit.ly/Purcari_Freedom_Blend</a> <a href="#reffn_21" title="Jump back to footnote [21] in the text."> ↩</a>
+<sup>21</sup>. Джерело за посиланням <a href="https://bit.ly/Purcari_Freedom_Blend">bit.ly/Purcari_Freedom_Blend</a> <a href="#reffn_21" title="Jump back to footnote [21] in the text."> ↩</a>
 </blockquote>
 <blockquote id="fn_22">
-<sup>22</sup>. Текст люб'язно надано Миколою Скибою, директором ГО «Агенція культурних стратегій», <a href="www.facebook.com/myskyba">www.facebook.com/myskyba</a> <a href="#reffn_22" title="Jump back to footnote [22] in the text."> ↩</a>
+<sup>22</sup>. Текст люб'язно надано Миколою Скибою, директором ГО «Агенція культурних стратегій», <a href="https://www.facebook.com/myskyba">www.facebook.com/myskyba</a> <a href="#reffn_22" title="Jump back to footnote [22] in the text."> ↩</a>
 </blockquote>
 <blockquote id="fn_23">
-<sup>23</sup>. Джерело за посиланням <a href="bit.ly/BORIKA">bit.ly/BORIKA</a> <a href="#reffn_23" title="Jump back to footnote [23] in the text."> ↩</a>
+<sup>23</sup>. Джерело за посиланням <a href="https://bit.ly/BORIKA">bit.ly/BORIKA</a> <a href="#reffn_23" title="Jump back to footnote [23] in the text."> ↩</a>
 </blockquote>

@@ -16,5 +16,5 @@
 </div>
 
 <blockquote id="fn_30">
-<sup>16</sup>. Джерело за посиланням <a href="bit.ly/LainoPhoto">bit.ly/LainoPhoto</a> <a href="#reffn_30" title="Jump back to footnote [30] in the text."> ↩</a>
+<sup>16</sup>. Джерело за посиланням <a href="https://bit.ly/LainoPhoto">bit.ly/LainoPhoto</a> <a href="#reffn_30" title="Jump back to footnote [30] in the text."> ↩</a>
 </blockquote>

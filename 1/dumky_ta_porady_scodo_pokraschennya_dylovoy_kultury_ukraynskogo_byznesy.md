@@ -82,16 +82,16 @@
 <div class="eoz-wrap">
 <span class="eoz">Корисні посилання</span>
 <div class="eoz-text">
-Англомовний ресурс <a href="businessculture.org">businessculture.org</a> пропонує безкоштовні тренінги з питань міжнародної ділової культури та ділового етикету. На ресурсі містяться як матеріали за окремими країнами, так і загальні статті. Зміст сайту розроблено з метою допомоги МСП. Окрім того, ресурс має власну сторінку у <i>Facebook</i>, а також обліковий запис у <i>Twitter</i>, де викладаються корисні посилання.<br>
-Англомовний сайт <a href="www.cyborlink.com">www.cyborlink.com</a> містить добре категоризовану та лаконічну інформацію про культурні особливості та окремі аспекти ведення бізнесу в різних країнах. <br>
-Веб сторінки про європейські культурні відмінності в бізнесі <a href="bit.ly/Eur_cult_diff">bit.ly/Eur_cult_diff</a> та бізнес-етикет в Європі <a href="bit.ly/Eur_busin_ethic">bit.ly/Eur_busin_ethic</a> нададуть вам додаткову інформацію про культурні відмінності в діловій культурі європейських країн.
+Англомовний ресурс <a href="https://businessculture.org">businessculture.org</a> пропонує безкоштовні тренінги з питань міжнародної ділової культури та ділового етикету. На ресурсі містяться як матеріали за окремими країнами, так і загальні статті. Зміст сайту розроблено з метою допомоги МСП. Окрім того, ресурс має власну сторінку у <i>Facebook</i>, а також обліковий запис у <i>Twitter</i>, де викладаються корисні посилання.<br>
+Англомовний сайт <a href="https://www.cyborlink.com">www.cyborlink.com</a> містить добре категоризовану та лаконічну інформацію про культурні особливості та окремі аспекти ведення бізнесу в різних країнах. <br>
+Веб сторінки про європейські культурні відмінності в бізнесі <a href="https://bit.ly/Eur_cult_diff">bit.ly/Eur_cult_diff</a> та бізнес-етикет в Європі <a href="https://bit.ly/Eur_busin_ethic">bit.ly/Eur_busin_ethic</a> нададуть вам додаткову інформацію про культурні відмінності в діловій культурі європейських країн.
 </div>
 </div>
 </div>
 
 <blockquote id="fn_32">
-<sup>32</sup>. Дякую Інні Сосновській з ТОВ «Консалтингова група "СТРАТЕДЖИК"» <a href="strategic-ua.com">strategic-ua.com</a> за це цінне спостереження <a href="#reffn_32" title="Jump back to footnote [32] in the text."> ↩</a>
+<sup>32</sup>. Дякую Інні Сосновській з ТОВ «Консалтингова група "СТРАТЕДЖИК"» <a href="https://strategic-ua.com">strategic-ua.com</a> за це цінне спостереження <a href="#reffn_32" title="Jump back to footnote [32] in the text."> ↩</a>
 </blockquote>
 <blockquote id="fn_33">
-<sup>33</sup>. Цитата Ігоря Бураковського, Голови правління Інституту економічних досліджень та політичних консультацій, джерело за посиланням <a href="bit.ly/UA_exports_to_EU_fall">bit.ly/UA_exports_to_EU_fall</a> <a href="#reffn_33" title="Jump back to footnote [33] in the text."> ↩</a>
+<sup>33</sup>. Цитата Ігоря Бураковського, Голови правління Інституту економічних досліджень та політичних консультацій, джерело за посиланням <a href="https://bit.ly/UA_exports_to_EU_fall">bit.ly/UA_exports_to_EU_fall</a> <a href="#reffn_33" title="Jump back to footnote [33] in the text."> ↩</a>
 </blockquote>
